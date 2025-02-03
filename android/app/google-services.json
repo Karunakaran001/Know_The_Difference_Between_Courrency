@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175225624897",
+    "project_id": "know-the-difference",
+    "storage_bucket": "know-the-difference.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175225624897:android:d7a955b99231cc7cc5a9c0",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ8dAETSX34bzceRVvO_f2dvnS-W3pOoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
